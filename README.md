@@ -1,2 +1,3 @@
 # clnprk.github.io
-Colin's Portfolio
+This is Colin's portfolio page.
+
