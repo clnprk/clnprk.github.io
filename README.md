@@ -14,4 +14,5 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Test image
 
-![Screenshot 2023-09-13 at 3.01.46 PM.png](./Screenshot_2023-09-13_at_3.01.46_PM.png)
+
+
